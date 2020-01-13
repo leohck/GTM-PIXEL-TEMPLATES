@@ -1,18 +1,4 @@
-﻿// Copyright 2019 Fitmedia
-
-// Licensed under the Apache License, Version 2.0 (the "License");
-// you may not use this file except in compliance with the License.
-// You may obtain a copy of the License at
-
-//     https://www.apache.org/licenses/LICENSE-2.0
-
-// Unless required by applicable law or agreed to in writing, software
-// distributed under the License is distributed on an "AS IS" BASIS,
-// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-// See the License for the specific language governing permissions and
-// limitations under the License.
-
-___TERMS_OF_SERVICE___
+﻿___TERMS_OF_SERVICE___
 
 By creating or modifying this file you agree to Google Tag Manager's Community
 Template Gallery Developer Terms of Service available at
@@ -31,7 +17,7 @@ ___INFO___
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
-    "thumbnail": "data:image/png;base64,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"
+    "thumbnail": "data:image/jpeg;base64,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"
   },
   "description": "This conversion pixel template can help you integrate the functionality of google tag manager with the conversion measurement functionality of Fitmedia DSP",
   "containerContexts": [
@@ -64,7 +50,7 @@ const encodeUriComponent = require('encodeUriComponent');
 // capture values of template fields
 const audienceid = data.audienceID;
 
-const url = "https://pool.admedo.com/pixel?id="+encodeUriComponent(audienceid)+"&t=js";
+const url = "https://pool.a8723.com/pixel?id="+encodeUriComponent(audienceid)+"&t=js";
 
 sendPixel(url, data.gtmOnSuccess, data.gtmOnFailure);
 
@@ -87,6 +73,14 @@ ___WEB_PERMISSIONS___
               {
                 "type": 1,
                 "string": "https://pool.admedo.com/"
+              },
+              {
+                "type": 1,
+                "string": "https://pool.a8723.com/"
+              },
+              {
+                "type": 1,
+                "string": "https://pool.a8723.com/pixel"
               }
             ]
           }
@@ -108,6 +102,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 08/01/2020 14:50:51
+Created on 13/01/2020 10:01:01
 
 
