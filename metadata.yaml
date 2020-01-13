@@ -15,5 +15,9 @@
 homepage: "https://www.fitmedia.com.br"
 documentation: "https://ad3plus.com/especificacoes-tecnicas"
 versions:
+  # Latest version
+  - sha: 8fce6a5a512d4cfb630ed4d55d5f759321064294
+    changeNotes: Changing Logo and Refactoring the Code
+  # Older version
   - sha: 52bdeb95a1678ef831daa71a526ce8fe3813596a
     changeNotes: Initial Version
