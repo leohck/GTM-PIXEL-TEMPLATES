@@ -16,6 +16,8 @@ homepage: "https://www.fitmedia.com.br"
 documentation: "https://ad3plus.com/especificacoes-tecnicas"
 versions:
   # Latest version
+  - sha: 9df39186f52380d16e2fad9f295220cdb619a2b5
+    changeNotes: Changing the name of template
   - sha: 8fce6a5a512d4cfb630ed4d55d5f759321064294
     changeNotes: Changing Logo and Refactoring the Code
   # Older version
