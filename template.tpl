@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Fitmedia Conversion Pixel",
+  "displayName": "Fitmedia Retargeting and Conversion Pixel",
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
